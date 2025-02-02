@@ -6,3 +6,7 @@
 def greet():
     print("Hello, world!")
 greet()
+- [ ] Set up GitHub Pages
+- [ ] Plan portfolio structure
+- [ ] Add content to the portfolio
+
